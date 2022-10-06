@@ -1,0 +1,64 @@
+body{
+  background-image: url(background.jpg);
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-size: 100%;
+  text-align:left;
+}
+.background{
+  width: 1400px;
+  height: 700px;
+  background-color:rgba(0, 0, 0, 0.5);
+  margin: auto;
+  border-radius: 1%;
+}
+
+header{
+  text-align: center;
+}
+.logo{
+  width: 250px;
+}
+.logo-text{
+color: lightgreen;
+}
+.contenitore{
+  text-align: center;
+  width: 58%;
+  background-color: lightgreen;
+  margin: auto;
+  border: 10px solid lightgreen;
+}
+.row{
+  position: relative;
+  display: inline-block;
+  left: 20%;
+  color: white;
+}
+
+.name-scooter{
+  display: inline-block;
+  margin-bottom: 3px;
+  font-family: arial;
+}
+.carica-media{
+  width: 300px;
+  height: 30px;
+  background-color: orange;
+  border-radius:5px;
+  margin-bottom:
+}
+.carica-alta{
+  width: 550px;
+  height: 30px;
+  background-color: green;
+  border-radius:5px;
+  margin-bottom:
+}
+.carica-bassa{
+  width: 150px;
+  height: 30px;
+  background-color: red;
+  border-radius:5px;
+  margin-bottom:
+}
